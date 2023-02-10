@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <executionType></executionType>
+   <executionType>js</executionType>
    <type></type>
    <description></description>
    <tag></tag>
