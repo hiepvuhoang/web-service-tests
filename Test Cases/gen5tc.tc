@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <executionType>JS<executionType>
-   <type><type>
+   <type></type>
    <description></description>
    <tag></tag>
    <comment></comment>
