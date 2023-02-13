@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <executionType>ts</executionType>
+   <executionType>TS</executionType>
    <type></type>
    <description></description>
    <tag></tag>
