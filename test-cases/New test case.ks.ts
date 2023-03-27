@@ -4,7 +4,7 @@ export default katalon.testCase("New Test Case", async ({ local, web }) => {
   await web.openBrowser("https://katalon-demo-cura.herokuapp.com");
   await web.click({
     type: "Web",
-    id: "d520938e-b2c7-442b-9bf7-f25ecf577a21",
+    id: "d2788a16-33d0-44c0-b768-e0b873403911",
     attributes: {
       id: "btn-make-appointment",
       href: "./profile.php#login",
@@ -15,13 +15,13 @@ export default katalon.testCase("New Test Case", async ({ local, web }) => {
     name: "a - Make Appointment",
     selectors: [
       {
-        id: "f85df66b-82ba-4aea-b0be-f83ca14e5e93",
+        id: "75f62aee-eb55-446e-94ba-74c6f3686075",
         type: "CSS",
         value: "#btn-make-appointment",
         isDefault: true,
       },
       {
-        id: "51f87666-9b12-419e-9414-532afc4b1329",
+        id: "c966c12d-1e4f-4004-bb59-ae7ad99b7e3d",
         type: "Attribute",
         value: null,
         isDefault: true,
