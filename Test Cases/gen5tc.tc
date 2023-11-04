@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <executionType></executionType>
+   <type></type>
+   <description></description>
+   <tag></tag>
+   <comment></comment>
+   <variable>
+      <defaultValue>25</defaultValue>
+      <description></description>
+      <id>0de4fa76-1864-4d5e-aa8a-70ad8f4f4342</id>
+      <masked>false</masked>
+      <name>age</name>
+   </variable>
+</TestCaseEntity>
